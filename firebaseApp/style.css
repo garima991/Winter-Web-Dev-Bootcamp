@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color: rgb(90, 80, 80);
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    font-size: medium;
+    font-weight: 1000;
+    text-shadow: 4px rgb(99, 12, 12);
+}
+
+.form{
+    padding:50px ;
+    background-color: rgb(12, 87, 87);
+}
+
+input{
+    width:350px;
+    border-radius:30px;
+    padding:30px;
+}
+
+input:hover{
+    box-shadow:3px 8px rgb(24, 21, 21);
+}
+
+.operations{
+    display: flex;
+    justify-content: center;
+}
+
+.insert button,
+.select button, 
+.update button,
+.delete button{
+    padding:4px;
+    border-radius: 4px;
+    box-shadow: 3px 4px;
+    margin:4px;
+}
+
+
+.insert button:hover,
+.select button:hover, 
+.update button:hover,
+.delete button:hover{
+    margin:6px;
+    box-shadow:3px 4px rgb(189, 163, 150)
+    
+}
+
+
+
+
+
+
