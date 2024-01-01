@@ -10,9 +10,6 @@ This repository contains all the projects that I have made during the Winter Web
     -> JavaScript
     -> OpenWeatherMap (API)
 
-    Preview:
-    ![Screenshot 2023-12-31 231114](https://github.com/GarimaOfficial/Winter-Web-Dev-Bootcamp/assets/109850032/39dee3a3-7bd2-40cc-af99-9f0e6549c948)
-
     API reference:
     https://api.openweathermap.org/data/2.5/weather?q=${CITY},uk&${API_KEY}
 
@@ -25,10 +22,7 @@ This repository contains all the projects that I have made during the Winter Web
     -> CSS
     -> JavaScript
     -> Firebase
-
-    Preview:
-    ![Screenshot 2023-12-31 231144](https://github.com/GarimaOfficial/Winter-Web-Dev-Bootcamp/assets/109850032/0e9b194a-b4b2-466e-9896-5cc9c5a438cb)
-
+    
 # 3. Python Project
     a. QR Code Generator
         -> Generates QR codes from provided data.
